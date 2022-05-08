@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Heewon Kim"
-  avatar           : "/Users/won/Desktop/HUFS/3472420649092302109_20220422101322278.JPG"
+  avatar           : #
   bio              : "I am an **amazing** person."
   location         : "South Korea"
   email            : 
